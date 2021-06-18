@@ -5,7 +5,10 @@
     font-family: 'raleway', sans-serif;
 }
 
-
+/* Stylng */
+.javascript{
+    width: 300px;
+}
 
 /* Media Query */
 @media(min-width: 768px){
